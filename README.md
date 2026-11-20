@@ -1,7 +1,9 @@
 # examen_rentacar_jamsramirez
  
 # RentCar Express
-
+Estudiante: Jams Ramirez
+Matrícula: 2024-3966
+Docente: Gamalier Reyes
 
 
 ## Descripción
