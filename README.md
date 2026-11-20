@@ -41,5 +41,4 @@ Aplicación de escritorio desarrollada en C# Windows Forms para registrar alquil
 - GitHub
 
 
-<img width="988" height="595" alt="WhatsApp Image 2026-11-19 at 21 54 37" src="https://github.com/user-attachments/assets/62276cb1-68f8-48e5-9916-15b5806187ee" />
 
