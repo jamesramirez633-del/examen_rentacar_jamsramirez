@@ -18,11 +18,6 @@ namespace RentCar_Express
             InitializeComponent();
         }
 
-        // Aquí implementarás:
-        // Form1_Load
-        // btnAgregar_Click
-        // btnCalcular_Click
-        // btnLimpiar_Click
-        // btnSalir_Click
+        
     }
 }
