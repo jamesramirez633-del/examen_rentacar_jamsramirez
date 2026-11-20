@@ -1,27 +1,43 @@
 # examen_rentacar_jamsramirez
-Segundo Parcial – Programación Básica
-Estudiante: jams ismael Ramirez
-Matrícula: 2024-3966
-Docente: Gamalier Reyes
+ 
+# RentCar Express
 
-Descripción del proyecto
-RentCar Express es una aplicación desarrollada en C# utilizando Windows Forms, que permite registrar alquileres de vehículos y calcular el monto total que debe pagar un cliente.
 
-Este proyecto fue realizado como parte del segundo parcial de Programación Básica, con el propósito de poner en práctica los conocimientos adquiridos sobre programación orientada a objetos, eventos, métodos y desarrollo de interfaces gráficas.
 
-Funcionalidades
-Registro de clientes y vehículos.
-Cálculo de tarifas según los días de alquiler.
-Opciones de seguro básico o completo.
-Servicio adicional de GPS.
-Descuento para clientes corporativos.
-Cálculo de entrega a domicilio e ITBIS.
-Listado de alquileres y cálculo del total a pagar.
-Opciones para agregar, eliminar y limpiar registros.
-Tecnologías utilizadas
-C#
-Windows Forms
-.NET 8
+## Descripción
+Aplicación de escritorio desarrollada en C# Windows Forms para registrar alquileres de vehículos y calcular el importe total a pagar.
+
+## Datos de entrada
+- Nombre del cliente.
+- Fecha de salida.
+- Nombre del vehículo.
+- Tarifa diaria.
+- Cantidad de días.
+- Tipo de seguro.
+- Servicio GPS.
+- Tipo de entrega.
+
+## Procesos
+- Registro de vehículos.
+- Cálculo de tarifas por días.
+- Aplicación de seguro y GPS.
+- Cálculo de descuentos corporativos.
+- Cálculo de entrega a domicilio.
+- Cálculo del ITBIS del 18 %.
+
+## Resultados
+- Subtotal.
+- Descuento.
+- Domicilio.
+- ITBIS.
+- Total a pagar.
+
+## Tecnologías
+- C#
+- Visual Studio
+- Windows Forms
+- GitHub
+
 
 <img width="988" height="595" alt="WhatsApp Image 2026-11-19 at 21 54 37" src="https://github.com/user-attachments/assets/62276cb1-68f8-48e5-9916-15b5806187ee" />
 
