@@ -40,7 +40,5 @@ Aplicación de escritorio desarrollada en C# Windows Forms para registrar alquil
 - Windows Forms
 - GitHub
 
-<img width="960" height="501" alt="image" src="https://github.com/user-attachments/assets/1f582424-a42d-4352-9338-90a979ec2e4d" />
-
 <img width="911" height="437" alt="image" src="https://github.com/user-attachments/assets/c4ccb457-c675-4c31-9f17-00a2290126e8" />
 
